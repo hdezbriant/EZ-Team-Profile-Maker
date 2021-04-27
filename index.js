@@ -5,8 +5,7 @@ const Manager = require("./lib/addManager");
 const Engineer = require("./lib/addEngineer");
 const Intern = require("./lib/addIntern");
 
-const html =
-    `<!DOCTYPE html>
+const html = `<!DOCTYPE html>
     <html lang="en">
     
     <head>
@@ -78,7 +77,6 @@ const html =
     
     </html>`;
 
-
 // Generate card with info
 // ==========================
 
@@ -86,7 +84,6 @@ const html =
 //     const partOne = divs from HTML for cards;
 //     return;
 // };
-
 
 // Ask for additional entries, if no, stop
 // ======================================
@@ -112,7 +109,7 @@ const html =
 // };
 
 function writeHTML() {
-    fs.writeFileSync(teamPath, html);
+  fs.writeFileSync(teamPath, html);
 }
 
 writeHTML();
