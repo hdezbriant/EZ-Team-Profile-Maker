@@ -20,7 +20,7 @@ Simply clone this repository and run ```node index.js``` and you're in there!
   
 ## Usage  
 After starting the node app, you will be greeted with a prompt to input the manager's name and contact information. After which, you will be asked if you'd like to add any more team members at the time. Following the prompts, continue to add as many team members as you'd like(engineers and interns only currently, sorry everyone else.) and once you're finished, click the end option. Once you've exited the app, your fancy new team webpage will have been generated and placed in the root directory of wherever you have the app. Cool!  
-### [See it in action!]()
+### [See it in action here(Youtube!)](https://youtu.be/DXRYdrm4Su0)
   
 ## Contribution Guidelines  
 Feel free to email me [here!](mailto:hernandez.briant@gmail.com)  
