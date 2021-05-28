@@ -1,7 +1,6 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-const teamPath = "./team-profile.html";
-// const managerPrompt = require("./lib/addManager");
+const teamPath = "./dist/team-profile.html";
 const htmlHead = require("./htmlSkeleton/htmlHead");
 const htmlFooter = require("./htmlSkeleton/htmlfooter");
 
